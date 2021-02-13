@@ -1,0 +1,1 @@
+checkout if folder can be clone alone
